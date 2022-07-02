@@ -1,0 +1,24 @@
+This is the upcoming events
+the name of the event is : csbiu
+the place of the event is : fnoewb
+Event start_day : 5
+Event start_month : 5
+Event start year : 2022
+Event end_day : 9
+Event end_month : 9
+Event end year : 2022
+Event start_time : 2
+--------------------------------------------------------------
+
+This is the upcoming events
+the name of the event is : cbiwbu
+the place of the event is : cneoe
+Event start_day : 2
+Event start_month : 2
+Event start year : 2022
+Event end_day : 5
+Event end_month : 5
+Event end year : 2022
+Event start_time : 6
+--------------------------------------------------------------
+
